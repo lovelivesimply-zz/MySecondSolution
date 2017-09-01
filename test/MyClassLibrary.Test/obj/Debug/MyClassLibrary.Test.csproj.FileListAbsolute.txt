@@ -1,0 +1,17 @@
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\MyClassLibrary.Test.dll
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\MyClassLibrary.Test.pdb
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\MyClassLibrary.dll
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\xunit.abstractions.dll
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\xunit.assert.dll
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\xunit.core.dll
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\xunit.execution.desktop.dll
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\MyClassLibrary.pdb
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\xunit.abstractions.xml
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\xunit.assert.xml
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\xunit.core.xml
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\xunit.execution.desktop.xml
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\obj\Debug\MyClassLibrary.Test.csprojResolveAssemblyReference.cache
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\obj\Debug\MyClassLibrary.Test.dll
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\obj\Debug\MyClassLibrary.Test.pdb
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\Autofac.dll
+C:\workspace\MySecondSolution\test\MyClassLibrary.Test\bin\Debug\Autofac.xml

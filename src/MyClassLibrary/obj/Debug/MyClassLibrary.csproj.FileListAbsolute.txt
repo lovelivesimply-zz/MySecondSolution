@@ -1,0 +1,5 @@
+C:\workspace\MySecondSolution\src\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\workspace\MySecondSolution\src\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\workspace\MySecondSolution\src\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
+C:\workspace\MySecondSolution\src\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\workspace\MySecondSolution\src\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
